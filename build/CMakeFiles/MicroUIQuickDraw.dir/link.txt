@@ -1,0 +1,1 @@
+/home/camh/Retro68-build/toolchain/bin/m68k-apple-macos-gcc    CMakeFiles/MicroUIQuickDraw.dir/SerialHelper.c.obj CMakeFiles/MicroUIQuickDraw.dir/microui.c.obj CMakeFiles/MicroUIQuickDraw.dir/Sample.c.obj  -o MicroUIQuickDraw.code.bin 

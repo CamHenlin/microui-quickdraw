@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+a2c2089ef1f576b89a52a3448bee4436 CMakeFiles/MicroUIQuickDraw_APPL
+527d6ca09d8c31ad01f51b1e3c898028 MicroUIQuickDraw.bin
+c0fb3c69c024bdbef0e44e5b0dc6b83d Sample.r.rsrc.bin

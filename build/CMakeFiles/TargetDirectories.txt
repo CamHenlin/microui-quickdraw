@@ -1,0 +1,4 @@
+/home/camh/Documents/Retro68kApps/MicroUIQuickDraw/build/CMakeFiles/edit_cache.dir
+/home/camh/Documents/Retro68kApps/MicroUIQuickDraw/build/CMakeFiles/rebuild_cache.dir
+/home/camh/Documents/Retro68kApps/MicroUIQuickDraw/build/CMakeFiles/MicroUIQuickDraw_APPL.dir
+/home/camh/Documents/Retro68kApps/MicroUIQuickDraw/build/CMakeFiles/MicroUIQuickDraw.dir
